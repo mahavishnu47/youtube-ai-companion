@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.eggs/
+dist/
+build/
+sdist/
+develop-eggs/
+*.egg-info/
+*.egg
+MANIFEST
+
+# Installed packages
+**/site-packages/
+
+# Log and temp files
+*.log
+*.tmp
+temp/
+tmp/
+*.swp
+.DS_Store
+
+# Virtual Environment Folders
+*/backend_env/
+*/frontend_env/
+
+# OS generated files
+.idea/
+.vscode/
+Thumbs.db
+*.pyc
+*.sqlite
+
+# Secrets
+.env
+
+# Audio files
+./temp_audio
